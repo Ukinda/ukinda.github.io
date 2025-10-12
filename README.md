@@ -44,8 +44,9 @@ Saya percaya pada kekuatan kolaborasi dan komunitas. Jika Anda memiliki masukan,
 Anda bisa menemukan saya di:
 
 * **[GitHub](https://github.com/Ukinda)**
-* **[Email](ukindaferiandosetiawan@gmail.com)** *(ganti dengan email Anda)*
+* **[Email](ukindaferiandosetiawan@gmail.com)**
 
 ---
 
 > Terima kasih telah meluangkan waktu untuk melihat hasil karya saya. Membangun sesuatu dari nol adalah sebuah perjalanan yang indah, dan dukungan dari orang-orang seperti Anda membuatnya jauh lebih berarti. Teruslah berkarya dan jangan pernah berhenti belajar! 💖
+
